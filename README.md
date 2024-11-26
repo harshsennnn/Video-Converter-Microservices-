@@ -1,4 +1,4 @@
-# Video-Converter-(Microservices) Devops Project
+# Video-Converter-(Python Microservices) Devops Project
 #### This project implements a microservices-based architecture for converting video files into audio (MP3) format. It leverages modern DevOps practices with containerized services, message queues, and distributed data storage for efficient processing. The solution is designed to handle video uploads, convert them asynchronously to audio, and enable users to download the converted files.
 
 ## Key Features
